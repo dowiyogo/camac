@@ -1,0 +1,607 @@
+DATA WAY initialized - CAMAC Clear Executed
+Data block size set to 16 words
+Combo 1 Enabled
+Combo 2 Disabled
+Combo 1 Event Counter Reset
+Combo 1 acknowledgement
+
+
+test in address 0
+OK! Command Sent F1 Q: 0 X: 1 Data: 0
+OK! Command Sent F3 Q: 0 X: 1 Data: 0
+OK! Command Sent F5 Q: 0 X: 1 Data: 0
+OK! Command Sent F7 Q: 0 X: 1 Data: 0
+OK! Command Sent F9 Q: 0 X: 1 Data: 0
+OK! Command Sent F11 Q: 0 X: 1 Data: 0
+OK! Command Sent F13 Q: 0 X: 1 Data: 0
+OK! Command Sent F15 Q: 0 X: 1 Data: 0
+OK! Command Sent F17 Q: 0 X: 1 Data: 10
+OK! Command Sent F19 Q: 0 X: 1 Data: 10
+OK! Command Sent F21 Q: 0 X: 1 Data: 10
+OK! Command Sent F23 Q: 0 X: 1 Data: 10
+OK! Command Sent F25 Q: 0 X: 1 Data: 0
+OK! Command Sent F27 Q: 0 X: 1 Data: 0
+OK! Command Sent F29 Q: 0 X: 1 Data: 0
+OK! Command Sent F31 Q: 0 X: 1 Data: 0
+
+
+test in address 1
+OK! Command Sent F1 Q: 0 X: 1 Data: 0
+OK! Command Sent F3 Q: 0 X: 1 Data: 0
+OK! Command Sent F5 Q: 0 X: 1 Data: 0
+OK! Command Sent F7 Q: 0 X: 1 Data: 0
+OK! Command Sent F9 Q: 0 X: 1 Data: 0
+OK! Command Sent F11 Q: 0 X: 1 Data: 0
+OK! Command Sent F13 Q: 0 X: 1 Data: 0
+OK! Command Sent F15 Q: 0 X: 1 Data: 0
+OK! Command Sent F17 Q: 0 X: 1 Data: 10
+OK! Command Sent F19 Q: 0 X: 1 Data: 10
+OK! Command Sent F21 Q: 0 X: 1 Data: 10
+OK! Command Sent F23 Q: 0 X: 1 Data: 10
+OK! Command Sent F25 Q: 0 X: 1 Data: 0
+OK! Command Sent F27 Q: 0 X: 1 Data: 0
+OK! Command Sent F29 Q: 0 X: 1 Data: 0
+OK! Command Sent F31 Q: 0 X: 1 Data: 0
+
+
+test in address 2
+OK! Command Sent F1 Q: 0 X: 1 Data: 0
+OK! Command Sent F3 Q: 0 X: 1 Data: 0
+OK! Command Sent F5 Q: 0 X: 1 Data: 0
+OK! Command Sent F7 Q: 0 X: 1 Data: 0
+OK! Command Sent F9 Q: 0 X: 1 Data: 0
+OK! Command Sent F11 Q: 0 X: 1 Data: 0
+OK! Command Sent F13 Q: 0 X: 1 Data: 0
+OK! Command Sent F15 Q: 0 X: 1 Data: 0
+OK! Command Sent F17 Q: 0 X: 1 Data: 10
+OK! Command Sent F19 Q: 0 X: 1 Data: 10
+OK! Command Sent F21 Q: 0 X: 1 Data: 10
+OK! Command Sent F23 Q: 0 X: 1 Data: 10
+OK! Command Sent F25 Q: 0 X: 1 Data: 0
+OK! Command Sent F27 Q: 0 X: 1 Data: 0
+OK! Command Sent F29 Q: 0 X: 1 Data: 0
+OK! Command Sent F31 Q: 0 X: 1 Data: 0
+
+
+test in address 3
+OK! Command Sent F1 Q: 0 X: 1 Data: 0
+OK! Command Sent F3 Q: 0 X: 1 Data: 0
+OK! Command Sent F5 Q: 0 X: 1 Data: 0
+OK! Command Sent F7 Q: 0 X: 1 Data: 0
+OK! Command Sent F9 Q: 0 X: 1 Data: 0
+OK! Command Sent F11 Q: 0 X: 1 Data: 0
+OK! Command Sent F13 Q: 0 X: 1 Data: 0
+OK! Command Sent F15 Q: 0 X: 1 Data: 0
+OK! Command Sent F17 Q: 0 X: 1 Data: 10
+OK! Command Sent F19 Q: 0 X: 1 Data: 10
+OK! Command Sent F21 Q: 0 X: 1 Data: 10
+OK! Command Sent F23 Q: 0 X: 1 Data: 10
+OK! Command Sent F25 Q: 0 X: 1 Data: 0
+OK! Command Sent F27 Q: 0 X: 1 Data: 0
+OK! Command Sent F29 Q: 0 X: 1 Data: 0
+OK! Command Sent F31 Q: 0 X: 1 Data: 0
+
+
+test in address 4
+OK! Command Sent F1 Q: 0 X: 1 Data: 0
+OK! Command Sent F3 Q: 0 X: 1 Data: 0
+OK! Command Sent F5 Q: 0 X: 1 Data: 0
+OK! Command Sent F7 Q: 0 X: 1 Data: 0
+OK! Command Sent F9 Q: 0 X: 1 Data: 0
+OK! Command Sent F11 Q: 0 X: 1 Data: 0
+OK! Command Sent F13 Q: 0 X: 1 Data: 0
+OK! Command Sent F15 Q: 0 X: 1 Data: 0
+OK! Command Sent F17 Q: 0 X: 1 Data: 10
+OK! Command Sent F19 Q: 0 X: 1 Data: 10
+OK! Command Sent F21 Q: 0 X: 1 Data: 10
+OK! Command Sent F23 Q: 0 X: 1 Data: 10
+OK! Command Sent F25 Q: 0 X: 1 Data: 0
+OK! Command Sent F27 Q: 0 X: 1 Data: 0
+OK! Command Sent F29 Q: 0 X: 1 Data: 0
+OK! Command Sent F31 Q: 0 X: 1 Data: 0
+
+
+test in address 5
+OK! Command Sent F1 Q: 0 X: 1 Data: 0
+OK! Command Sent F3 Q: 0 X: 1 Data: 0
+OK! Command Sent F5 Q: 0 X: 1 Data: 0
+OK! Command Sent F7 Q: 0 X: 1 Data: 0
+OK! Command Sent F9 Q: 0 X: 1 Data: 0
+OK! Command Sent F11 Q: 0 X: 1 Data: 0
+OK! Command Sent F13 Q: 0 X: 1 Data: 0
+OK! Command Sent F15 Q: 0 X: 1 Data: 0
+OK! Command Sent F17 Q: 0 X: 1 Data: 10
+OK! Command Sent F19 Q: 0 X: 1 Data: 10
+OK! Command Sent F21 Q: 0 X: 1 Data: 10
+OK! Command Sent F23 Q: 0 X: 1 Data: 10
+OK! Command Sent F25 Q: 0 X: 1 Data: 0
+OK! Command Sent F27 Q: 0 X: 1 Data: 0
+OK! Command Sent F29 Q: 0 X: 1 Data: 0
+OK! Command Sent F31 Q: 0 X: 1 Data: 0
+
+
+test in address 6
+OK! Command Sent F1 Q: 0 X: 1 Data: 0
+OK! Command Sent F3 Q: 0 X: 1 Data: 0
+OK! Command Sent F5 Q: 0 X: 1 Data: 0
+OK! Command Sent F7 Q: 0 X: 1 Data: 0
+OK! Command Sent F9 Q: 0 X: 1 Data: 0
+OK! Command Sent F11 Q: 0 X: 1 Data: 0
+OK! Command Sent F13 Q: 0 X: 1 Data: 0
+OK! Command Sent F15 Q: 0 X: 1 Data: 0
+OK! Command Sent F17 Q: 0 X: 1 Data: 10
+OK! Command Sent F19 Q: 0 X: 1 Data: 10
+OK! Command Sent F21 Q: 0 X: 1 Data: 10
+OK! Command Sent F23 Q: 0 X: 1 Data: 10
+OK! Command Sent F25 Q: 0 X: 1 Data: 0
+OK! Command Sent F27 Q: 0 X: 1 Data: 0
+OK! Command Sent F29 Q: 0 X: 1 Data: 0
+OK! Command Sent F31 Q: 0 X: 1 Data: 0
+
+
+test in address 7
+OK! Command Sent F1 Q: 0 X: 1 Data: 0
+OK! Command Sent F3 Q: 0 X: 1 Data: 0
+OK! Command Sent F5 Q: 0 X: 1 Data: 0
+OK! Command Sent F7 Q: 0 X: 1 Data: 0
+OK! Command Sent F9 Q: 0 X: 1 Data: 0
+OK! Command Sent F11 Q: 0 X: 1 Data: 0
+OK! Command Sent F13 Q: 0 X: 1 Data: 0
+OK! Command Sent F15 Q: 0 X: 1 Data: 0
+OK! Command Sent F17 Q: 0 X: 1 Data: 10
+OK! Command Sent F19 Q: 0 X: 1 Data: 10
+OK! Command Sent F21 Q: 0 X: 1 Data: 10
+OK! Command Sent F23 Q: 0 X: 1 Data: 10
+OK! Command Sent F25 Q: 0 X: 1 Data: 0
+OK! Command Sent F27 Q: 0 X: 1 Data: 0
+OK! Command Sent F29 Q: 0 X: 1 Data: 0
+OK! Command Sent F31 Q: 0 X: 1 Data: 0
+
+
+test in address 8
+OK! Command Sent F1 Q: 0 X: 1 Data: 0
+OK! Command Sent F3 Q: 0 X: 1 Data: 0
+OK! Command Sent F5 Q: 0 X: 1 Data: 0
+OK! Command Sent F7 Q: 0 X: 1 Data: 0
+OK! Command Sent F9 Q: 0 X: 1 Data: 0
+OK! Command Sent F11 Q: 0 X: 1 Data: 0
+OK! Command Sent F13 Q: 0 X: 1 Data: 0
+OK! Command Sent F15 Q: 0 X: 1 Data: 0
+OK! Command Sent F17 Q: 0 X: 1 Data: 10
+OK! Command Sent F19 Q: 0 X: 1 Data: 10
+OK! Command Sent F21 Q: 0 X: 1 Data: 10
+OK! Command Sent F23 Q: 0 X: 1 Data: 10
+OK! Command Sent F25 Q: 0 X: 1 Data: 0
+OK! Command Sent F27 Q: 0 X: 1 Data: 0
+OK! Command Sent F29 Q: 0 X: 1 Data: 0
+OK! Command Sent F31 Q: 0 X: 1 Data: 0
+
+
+test in address 9
+OK! Command Sent F1 Q: 0 X: 1 Data: 0
+OK! Command Sent F3 Q: 0 X: 1 Data: 0
+OK! Command Sent F5 Q: 0 X: 1 Data: 0
+OK! Command Sent F7 Q: 0 X: 1 Data: 0
+OK! Command Sent F9 Q: 0 X: 1 Data: 0
+OK! Command Sent F11 Q: 0 X: 1 Data: 0
+OK! Command Sent F13 Q: 0 X: 1 Data: 0
+OK! Command Sent F15 Q: 0 X: 1 Data: 0
+OK! Command Sent F17 Q: 0 X: 1 Data: 10
+OK! Command Sent F19 Q: 0 X: 1 Data: 10
+OK! Command Sent F21 Q: 0 X: 1 Data: 10
+OK! Command Sent F23 Q: 0 X: 1 Data: 10
+OK! Command Sent F25 Q: 0 X: 1 Data: 0
+OK! Command Sent F27 Q: 0 X: 1 Data: 0
+OK! Command Sent F29 Q: 0 X: 1 Data: 0
+OK! Command Sent F31 Q: 0 X: 1 Data: 0
+
+
+test in address 10
+OK! Command Sent F1 Q: 0 X: 1 Data: 0
+OK! Command Sent F3 Q: 0 X: 1 Data: 0
+OK! Command Sent F5 Q: 0 X: 1 Data: 0
+OK! Command Sent F7 Q: 0 X: 1 Data: 0
+OK! Command Sent F9 Q: 0 X: 1 Data: 0
+OK! Command Sent F11 Q: 0 X: 1 Data: 0
+OK! Command Sent F13 Q: 0 X: 1 Data: 0
+OK! Command Sent F15 Q: 0 X: 1 Data: 0
+OK! Command Sent F17 Q: 0 X: 1 Data: 10
+OK! Command Sent F19 Q: 0 X: 1 Data: 10
+OK! Command Sent F21 Q: 0 X: 1 Data: 10
+OK! Command Sent F23 Q: 0 X: 1 Data: 10
+OK! Command Sent F25 Q: 0 X: 1 Data: 0
+OK! Command Sent F27 Q: 0 X: 1 Data: 0
+OK! Command Sent F29 Q: 0 X: 1 Data: 0
+OK! Command Sent F31 Q: 0 X: 1 Data: 0
+
+
+test in address 11
+OK! Command Sent F1 Q: 0 X: 1 Data: 0
+OK! Command Sent F3 Q: 0 X: 1 Data: 0
+OK! Command Sent F5 Q: 0 X: 1 Data: 0
+OK! Command Sent F7 Q: 0 X: 1 Data: 0
+OK! Command Sent F9 Q: 0 X: 1 Data: 0
+OK! Command Sent F11 Q: 0 X: 1 Data: 0
+OK! Command Sent F13 Q: 0 X: 1 Data: 0
+OK! Command Sent F15 Q: 0 X: 1 Data: 0
+OK! Command Sent F17 Q: 0 X: 1 Data: 10
+OK! Command Sent F19 Q: 0 X: 1 Data: 10
+OK! Command Sent F21 Q: 0 X: 1 Data: 10
+OK! Command Sent F23 Q: 0 X: 1 Data: 10
+OK! Command Sent F25 Q: 0 X: 1 Data: 0
+OK! Command Sent F27 Q: 0 X: 1 Data: 0
+OK! Command Sent F29 Q: 0 X: 1 Data: 0
+OK! Command Sent F31 Q: 0 X: 1 Data: 0
+
+
+test in address 12
+OK! Command Sent F1 Q: 0 X: 1 Data: 0
+OK! Command Sent F3 Q: 0 X: 1 Data: 0
+OK! Command Sent F5 Q: 0 X: 1 Data: 0
+OK! Command Sent F7 Q: 0 X: 1 Data: 0
+OK! Command Sent F9 Q: 0 X: 1 Data: 0
+OK! Command Sent F11 Q: 0 X: 1 Data: 0
+OK! Command Sent F13 Q: 0 X: 1 Data: 0
+OK! Command Sent F15 Q: 0 X: 1 Data: 0
+OK! Command Sent F17 Q: 0 X: 1 Data: 10
+OK! Command Sent F19 Q: 0 X: 1 Data: 10
+OK! Command Sent F21 Q: 0 X: 1 Data: 10
+OK! Command Sent F23 Q: 0 X: 1 Data: 10
+OK! Command Sent F25 Q: 0 X: 1 Data: 0
+OK! Command Sent F27 Q: 0 X: 1 Data: 0
+OK! Command Sent F29 Q: 0 X: 1 Data: 0
+OK! Command Sent F31 Q: 0 X: 1 Data: 0
+
+
+test in address 13
+OK! Command Sent F1 Q: 0 X: 1 Data: 0
+OK! Command Sent F3 Q: 0 X: 1 Data: 0
+OK! Command Sent F5 Q: 0 X: 1 Data: 0
+OK! Command Sent F7 Q: 0 X: 1 Data: 0
+OK! Command Sent F9 Q: 0 X: 1 Data: 0
+OK! Command Sent F11 Q: 0 X: 1 Data: 0
+OK! Command Sent F13 Q: 0 X: 1 Data: 0
+OK! Command Sent F15 Q: 0 X: 1 Data: 0
+OK! Command Sent F17 Q: 0 X: 1 Data: 10
+OK! Command Sent F19 Q: 0 X: 1 Data: 10
+OK! Command Sent F21 Q: 0 X: 1 Data: 10
+OK! Command Sent F23 Q: 0 X: 1 Data: 10
+OK! Command Sent F25 Q: 0 X: 1 Data: 0
+OK! Command Sent F27 Q: 0 X: 1 Data: 0
+OK! Command Sent F29 Q: 0 X: 1 Data: 0
+OK! Command Sent F31 Q: 0 X: 1 Data: 0
+
+
+test in address 14
+OK! Command Sent F1 Q: 0 X: 1 Data: 0
+OK! Command Sent F3 Q: 0 X: 1 Data: 0
+OK! Command Sent F5 Q: 0 X: 1 Data: 0
+OK! Command Sent F7 Q: 0 X: 1 Data: 0
+OK! Command Sent F9 Q: 0 X: 1 Data: 0
+OK! Command Sent F11 Q: 0 X: 1 Data: 0
+OK! Command Sent F13 Q: 0 X: 1 Data: 0
+OK! Command Sent F15 Q: 0 X: 1 Data: 0
+OK! Command Sent F17 Q: 0 X: 1 Data: 10
+OK! Command Sent F19 Q: 0 X: 1 Data: 10
+OK! Command Sent F21 Q: 0 X: 1 Data: 10
+OK! Command Sent F23 Q: 0 X: 1 Data: 10
+OK! Command Sent F25 Q: 0 X: 1 Data: 0
+OK! Command Sent F27 Q: 0 X: 1 Data: 0
+OK! Command Sent F29 Q: 0 X: 1 Data: 0
+OK! Command Sent F31 Q: 0 X: 1 Data: 0
+
+
+test in address 15
+OK! Command Sent F1 Q: 0 X: 1 Data: 0
+OK! Command Sent F3 Q: 0 X: 1 Data: 0
+OK! Command Sent F5 Q: 0 X: 1 Data: 0
+OK! Command Sent F7 Q: 0 X: 1 Data: 0
+OK! Command Sent F9 Q: 0 X: 1 Data: 0
+OK! Command Sent F11 Q: 0 X: 1 Data: 0
+OK! Command Sent F13 Q: 0 X: 1 Data: 0
+OK! Command Sent F15 Q: 0 X: 1 Data: 0
+OK! Command Sent F17 Q: 0 X: 1 Data: 10
+OK! Command Sent F19 Q: 0 X: 1 Data: 10
+OK! Command Sent F21 Q: 0 X: 1 Data: 10
+OK! Command Sent F23 Q: 0 X: 1 Data: 10
+OK! Command Sent F25 Q: 0 X: 1 Data: 0
+OK! Command Sent F27 Q: 0 X: 1 Data: 0
+OK! Command Sent F29 Q: 0 X: 1 Data: 0
+OK! Command Sent F31 Q: 0 X: 1 Data: 0
+
+
+test in address 16
+OK! Command Sent F1 Q: 0 X: 1 Data: 0
+OK! Command Sent F3 Q: 0 X: 1 Data: 0
+OK! Command Sent F5 Q: 0 X: 1 Data: 0
+OK! Command Sent F7 Q: 0 X: 1 Data: 0
+OK! Command Sent F9 Q: 0 X: 1 Data: 0
+OK! Command Sent F11 Q: 0 X: 1 Data: 0
+OK! Command Sent F13 Q: 0 X: 1 Data: 0
+OK! Command Sent F15 Q: 0 X: 1 Data: 0
+OK! Command Sent F17 Q: 0 X: 1 Data: 10
+OK! Command Sent F19 Q: 0 X: 1 Data: 10
+OK! Command Sent F21 Q: 0 X: 1 Data: 10
+OK! Command Sent F23 Q: 0 X: 1 Data: 10
+OK! Command Sent F25 Q: 0 X: 1 Data: 0
+OK! Command Sent F27 Q: 0 X: 1 Data: 0
+OK! Command Sent F29 Q: 0 X: 1 Data: 0
+OK! Command Sent F31 Q: 0 X: 1 Data: 0
+
+
+test in address 17
+OK! Command Sent F1 Q: 0 X: 1 Data: 0
+OK! Command Sent F3 Q: 0 X: 1 Data: 0
+OK! Command Sent F5 Q: 0 X: 1 Data: 0
+OK! Command Sent F7 Q: 0 X: 1 Data: 0
+OK! Command Sent F9 Q: 0 X: 1 Data: 0
+OK! Command Sent F11 Q: 0 X: 1 Data: 0
+OK! Command Sent F13 Q: 0 X: 1 Data: 0
+OK! Command Sent F15 Q: 0 X: 1 Data: 0
+OK! Command Sent F17 Q: 0 X: 1 Data: 10
+OK! Command Sent F19 Q: 0 X: 1 Data: 10
+OK! Command Sent F21 Q: 0 X: 1 Data: 10
+OK! Command Sent F23 Q: 0 X: 1 Data: 10
+OK! Command Sent F25 Q: 0 X: 1 Data: 0
+OK! Command Sent F27 Q: 0 X: 1 Data: 0
+OK! Command Sent F29 Q: 0 X: 1 Data: 0
+OK! Command Sent F31 Q: 0 X: 1 Data: 0
+
+
+test in address 18
+OK! Command Sent F1 Q: 0 X: 1 Data: 0
+OK! Command Sent F3 Q: 0 X: 1 Data: 0
+OK! Command Sent F5 Q: 0 X: 1 Data: 0
+OK! Command Sent F7 Q: 0 X: 1 Data: 0
+OK! Command Sent F9 Q: 0 X: 1 Data: 0
+OK! Command Sent F11 Q: 0 X: 1 Data: 0
+OK! Command Sent F13 Q: 0 X: 1 Data: 0
+OK! Command Sent F15 Q: 0 X: 1 Data: 0
+OK! Command Sent F17 Q: 0 X: 1 Data: 10
+OK! Command Sent F19 Q: 0 X: 1 Data: 10
+OK! Command Sent F21 Q: 0 X: 1 Data: 10
+OK! Command Sent F23 Q: 0 X: 1 Data: 10
+OK! Command Sent F25 Q: 0 X: 1 Data: 0
+OK! Command Sent F27 Q: 0 X: 1 Data: 0
+OK! Command Sent F29 Q: 0 X: 1 Data: 0
+OK! Command Sent F31 Q: 0 X: 1 Data: 0
+
+
+test in address 19
+OK! Command Sent F1 Q: 0 X: 1 Data: 0
+OK! Command Sent F3 Q: 0 X: 1 Data: 0
+OK! Command Sent F5 Q: 0 X: 1 Data: 0
+OK! Command Sent F7 Q: 0 X: 1 Data: 0
+OK! Command Sent F9 Q: 0 X: 1 Data: 0
+OK! Command Sent F11 Q: 0 X: 1 Data: 0
+OK! Command Sent F13 Q: 0 X: 1 Data: 0
+OK! Command Sent F15 Q: 0 X: 1 Data: 0
+OK! Command Sent F17 Q: 0 X: 1 Data: 10
+OK! Command Sent F19 Q: 0 X: 1 Data: 10
+OK! Command Sent F21 Q: 0 X: 1 Data: 10
+OK! Command Sent F23 Q: 0 X: 1 Data: 10
+OK! Command Sent F25 Q: 0 X: 1 Data: 0
+OK! Command Sent F27 Q: 0 X: 1 Data: 0
+OK! Command Sent F29 Q: 0 X: 1 Data: 0
+OK! Command Sent F31 Q: 0 X: 1 Data: 0
+
+
+test in address 20
+OK! Command Sent F1 Q: 0 X: 1 Data: 0
+OK! Command Sent F3 Q: 0 X: 1 Data: 0
+OK! Command Sent F5 Q: 0 X: 1 Data: 0
+OK! Command Sent F7 Q: 0 X: 1 Data: 0
+OK! Command Sent F9 Q: 0 X: 1 Data: 0
+OK! Command Sent F11 Q: 0 X: 1 Data: 0
+OK! Command Sent F13 Q: 0 X: 1 Data: 0
+OK! Command Sent F15 Q: 0 X: 1 Data: 0
+OK! Command Sent F17 Q: 0 X: 1 Data: 10
+OK! Command Sent F19 Q: 0 X: 1 Data: 10
+OK! Command Sent F21 Q: 0 X: 1 Data: 10
+OK! Command Sent F23 Q: 0 X: 1 Data: 10
+OK! Command Sent F25 Q: 0 X: 1 Data: 0
+OK! Command Sent F27 Q: 0 X: 1 Data: 0
+OK! Command Sent F29 Q: 0 X: 1 Data: 0
+OK! Command Sent F31 Q: 0 X: 1 Data: 0
+
+
+test in address 21
+OK! Command Sent F1 Q: 0 X: 1 Data: 0
+OK! Command Sent F3 Q: 0 X: 1 Data: 0
+OK! Command Sent F5 Q: 0 X: 1 Data: 0
+OK! Command Sent F7 Q: 0 X: 1 Data: 0
+OK! Command Sent F9 Q: 0 X: 1 Data: 0
+OK! Command Sent F11 Q: 0 X: 1 Data: 0
+OK! Command Sent F13 Q: 0 X: 1 Data: 0
+OK! Command Sent F15 Q: 0 X: 1 Data: 0
+OK! Command Sent F17 Q: 0 X: 1 Data: 10
+OK! Command Sent F19 Q: 0 X: 1 Data: 10
+OK! Command Sent F21 Q: 0 X: 1 Data: 10
+OK! Command Sent F23 Q: 0 X: 1 Data: 10
+OK! Command Sent F25 Q: 0 X: 1 Data: 0
+OK! Command Sent F27 Q: 0 X: 1 Data: 0
+OK! Command Sent F29 Q: 0 X: 1 Data: 0
+OK! Command Sent F31 Q: 0 X: 1 Data: 0
+
+
+test in address 22
+OK! Command Sent F1 Q: 0 X: 1 Data: 0
+OK! Command Sent F3 Q: 0 X: 1 Data: 0
+OK! Command Sent F5 Q: 0 X: 1 Data: 0
+OK! Command Sent F7 Q: 0 X: 1 Data: 0
+OK! Command Sent F9 Q: 0 X: 1 Data: 0
+OK! Command Sent F11 Q: 0 X: 1 Data: 0
+OK! Command Sent F13 Q: 0 X: 1 Data: 0
+OK! Command Sent F15 Q: 0 X: 1 Data: 0
+OK! Command Sent F17 Q: 0 X: 1 Data: 10
+OK! Command Sent F19 Q: 0 X: 1 Data: 10
+OK! Command Sent F21 Q: 0 X: 1 Data: 10
+OK! Command Sent F23 Q: 0 X: 1 Data: 10
+OK! Command Sent F25 Q: 0 X: 1 Data: 0
+OK! Command Sent F27 Q: 0 X: 1 Data: 0
+OK! Command Sent F29 Q: 0 X: 1 Data: 0
+OK! Command Sent F31 Q: 0 X: 1 Data: 0
+
+
+test in address 23
+OK! Command Sent F1 Q: 0 X: 1 Data: 0
+OK! Command Sent F3 Q: 0 X: 1 Data: 0
+OK! Command Sent F5 Q: 0 X: 1 Data: 0
+OK! Command Sent F7 Q: 0 X: 1 Data: 0
+OK! Command Sent F9 Q: 0 X: 1 Data: 0
+OK! Command Sent F11 Q: 0 X: 1 Data: 0
+OK! Command Sent F13 Q: 0 X: 1 Data: 0
+OK! Command Sent F15 Q: 0 X: 1 Data: 0
+OK! Command Sent F17 Q: 0 X: 1 Data: 10
+OK! Command Sent F19 Q: 0 X: 1 Data: 10
+OK! Command Sent F21 Q: 0 X: 1 Data: 10
+OK! Command Sent F23 Q: 0 X: 1 Data: 10
+OK! Command Sent F25 Q: 0 X: 1 Data: 0
+OK! Command Sent F27 Q: 0 X: 1 Data: 0
+OK! Command Sent F29 Q: 0 X: 1 Data: 0
+OK! Command Sent F31 Q: 0 X: 1 Data: 0
+
+
+test in address 24
+OK! Command Sent F1 Q: 0 X: 1 Data: 0
+OK! Command Sent F3 Q: 0 X: 1 Data: 0
+OK! Command Sent F5 Q: 0 X: 1 Data: 0
+OK! Command Sent F7 Q: 0 X: 1 Data: 0
+OK! Command Sent F9 Q: 0 X: 1 Data: 0
+OK! Command Sent F11 Q: 0 X: 1 Data: 0
+OK! Command Sent F13 Q: 0 X: 1 Data: 0
+OK! Command Sent F15 Q: 0 X: 1 Data: 0
+OK! Command Sent F17 Q: 0 X: 1 Data: 10
+OK! Command Sent F19 Q: 0 X: 1 Data: 10
+OK! Command Sent F21 Q: 0 X: 1 Data: 10
+OK! Command Sent F23 Q: 0 X: 1 Data: 10
+OK! Command Sent F25 Q: 0 X: 1 Data: 0
+OK! Command Sent F27 Q: 0 X: 1 Data: 0
+OK! Command Sent F29 Q: 0 X: 1 Data: 0
+OK! Command Sent F31 Q: 0 X: 1 Data: 0
+
+
+test in address 25
+OK! Command Sent F1 Q: 0 X: 1 Data: 0
+OK! Command Sent F3 Q: 0 X: 1 Data: 0
+OK! Command Sent F5 Q: 0 X: 1 Data: 0
+OK! Command Sent F7 Q: 0 X: 1 Data: 0
+OK! Command Sent F9 Q: 0 X: 1 Data: 0
+OK! Command Sent F11 Q: 0 X: 1 Data: 0
+OK! Command Sent F13 Q: 0 X: 1 Data: 0
+OK! Command Sent F15 Q: 0 X: 1 Data: 0
+OK! Command Sent F17 Q: 0 X: 1 Data: 10
+OK! Command Sent F19 Q: 0 X: 1 Data: 10
+OK! Command Sent F21 Q: 0 X: 1 Data: 10
+OK! Command Sent F23 Q: 0 X: 1 Data: 10
+OK! Command Sent F25 Q: 0 X: 1 Data: 0
+OK! Command Sent F27 Q: 0 X: 1 Data: 0
+OK! Command Sent F29 Q: 0 X: 1 Data: 0
+OK! Command Sent F31 Q: 0 X: 1 Data: 0
+
+
+test in address 26
+OK! Command Sent F1 Q: 0 X: 1 Data: 0
+OK! Command Sent F3 Q: 0 X: 1 Data: 0
+OK! Command Sent F5 Q: 0 X: 1 Data: 0
+OK! Command Sent F7 Q: 0 X: 1 Data: 0
+OK! Command Sent F9 Q: 0 X: 1 Data: 0
+OK! Command Sent F11 Q: 0 X: 1 Data: 0
+OK! Command Sent F13 Q: 0 X: 1 Data: 0
+OK! Command Sent F15 Q: 0 X: 1 Data: 0
+OK! Command Sent F17 Q: 0 X: 1 Data: 10
+OK! Command Sent F19 Q: 0 X: 1 Data: 10
+OK! Command Sent F21 Q: 0 X: 1 Data: 10
+OK! Command Sent F23 Q: 0 X: 1 Data: 10
+OK! Command Sent F25 Q: 0 X: 1 Data: 0
+OK! Command Sent F27 Q: 0 X: 1 Data: 0
+OK! Command Sent F29 Q: 0 X: 1 Data: 0
+OK! Command Sent F31 Q: 0 X: 1 Data: 0
+
+
+test in address 27
+OK! Command Sent F1 Q: 0 X: 1 Data: 0
+OK! Command Sent F3 Q: 0 X: 1 Data: 0
+OK! Command Sent F5 Q: 0 X: 1 Data: 0
+OK! Command Sent F7 Q: 0 X: 1 Data: 0
+OK! Command Sent F9 Q: 0 X: 1 Data: 0
+OK! Command Sent F11 Q: 0 X: 1 Data: 0
+OK! Command Sent F13 Q: 0 X: 1 Data: 0
+OK! Command Sent F15 Q: 0 X: 1 Data: 0
+OK! Command Sent F17 Q: 0 X: 1 Data: 10
+OK! Command Sent F19 Q: 0 X: 1 Data: 10
+OK! Command Sent F21 Q: 0 X: 1 Data: 10
+OK! Command Sent F23 Q: 0 X: 1 Data: 10
+OK! Command Sent F25 Q: 0 X: 1 Data: 0
+OK! Command Sent F27 Q: 0 X: 1 Data: 0
+OK! Command Sent F29 Q: 0 X: 1 Data: 0
+OK! Command Sent F31 Q: 0 X: 1 Data: 0
+
+
+test in address 28
+OK! Command Sent F1 Q: 0 X: 1 Data: 0
+OK! Command Sent F3 Q: 0 X: 1 Data: 0
+OK! Command Sent F5 Q: 0 X: 1 Data: 0
+OK! Command Sent F7 Q: 0 X: 1 Data: 0
+OK! Command Sent F9 Q: 0 X: 1 Data: 0
+OK! Command Sent F11 Q: 0 X: 1 Data: 0
+OK! Command Sent F13 Q: 0 X: 1 Data: 0
+OK! Command Sent F15 Q: 0 X: 1 Data: 0
+OK! Command Sent F17 Q: 0 X: 1 Data: 10
+OK! Command Sent F19 Q: 0 X: 1 Data: 10
+OK! Command Sent F21 Q: 0 X: 1 Data: 10
+OK! Command Sent F23 Q: 0 X: 1 Data: 10
+OK! Command Sent F25 Q: 0 X: 1 Data: 0
+OK! Command Sent F27 Q: 0 X: 1 Data: 0
+OK! Command Sent F29 Q: 0 X: 1 Data: 0
+OK! Command Sent F31 Q: 0 X: 1 Data: 0
+
+
+test in address 29
+OK! Command Sent F1 Q: 0 X: 1 Data: 0
+OK! Command Sent F3 Q: 0 X: 1 Data: 0
+OK! Command Sent F5 Q: 0 X: 1 Data: 0
+OK! Command Sent F7 Q: 0 X: 1 Data: 0
+OK! Command Sent F9 Q: 0 X: 1 Data: 0
+OK! Command Sent F11 Q: 0 X: 1 Data: 0
+OK! Command Sent F13 Q: 0 X: 1 Data: 0
+OK! Command Sent F15 Q: 0 X: 1 Data: 0
+OK! Command Sent F17 Q: 0 X: 1 Data: 10
+OK! Command Sent F19 Q: 0 X: 1 Data: 10
+OK! Command Sent F21 Q: 0 X: 1 Data: 10
+OK! Command Sent F23 Q: 0 X: 1 Data: 10
+OK! Command Sent F25 Q: 0 X: 1 Data: 0
+OK! Command Sent F27 Q: 0 X: 1 Data: 0
+OK! Command Sent F29 Q: 0 X: 1 Data: 0
+OK! Command Sent F31 Q: 0 X: 1 Data: 0
+
+
+test in address 30
+OK! Command Sent F1 Q: 0 X: 1 Data: 0
+OK! Command Sent F3 Q: 0 X: 1 Data: 0
+OK! Command Sent F5 Q: 0 X: 1 Data: 0
+OK! Command Sent F7 Q: 0 X: 1 Data: 0
+OK! Command Sent F9 Q: 0 X: 1 Data: 0
+OK! Command Sent F11 Q: 0 X: 1 Data: 0
+OK! Command Sent F13 Q: 0 X: 1 Data: 0
+OK! Command Sent F15 Q: 0 X: 1 Data: 0
+OK! Command Sent F17 Q: 0 X: 1 Data: 10
+OK! Command Sent F19 Q: 0 X: 1 Data: 10
+OK! Command Sent F21 Q: 0 X: 1 Data: 10
+OK! Command Sent F23 Q: 0 X: 1 Data: 10
+OK! Command Sent F25 Q: 0 X: 1 Data: 0
+OK! Command Sent F27 Q: 0 X: 1 Data: 0
+OK! Command Sent F29 Q: 0 X: 1 Data: 0
+OK! Command Sent F31 Q: 0 X: 1 Data: 0
+
+
+test in address 31
+OK! Command Sent F1 Q: 0 X: 1 Data: 0
+OK! Command Sent F3 Q: 0 X: 1 Data: 0
+OK! Command Sent F5 Q: 0 X: 1 Data: 0
+OK! Command Sent F7 Q: 0 X: 1 Data: 0
+OK! Command Sent F9 Q: 0 X: 1 Data: 0
+OK! Command Sent F11 Q: 0 X: 1 Data: 0
+OK! Command Sent F13 Q: 0 X: 1 Data: 0
+OK! Command Sent F15 Q: 0 X: 1 Data: 0
+OK! Command Sent F17 Q: 0 X: 1 Data: 

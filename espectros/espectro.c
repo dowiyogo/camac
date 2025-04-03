@@ -1,0 +1,139 @@
+#include "crate_lib.h"
+#include "lecroy_2249A.h"
+#include "caen_c111c.h"
+#include "OR_1320.h"
+#include <time.h>
+#include <math.h>
+#include <stdlib.h>
+#include <sys/time.h>
+
+//llamar a funcion asi..  ./spectra num_event filename.dat ej:  ./spectra 10000 ejemplo.dat
+int events;
+short CID, res;
+char cmd_res[33];
+char filename[50];
+int i,t0;
+int counter=1;
+int data=0;
+float percent,remainingtime0,remainingtime1;
+FILE *outfile;
+int block_data_size=17;
+int total_data_size;
+struct timeval ti, tf;
+double tiempo;
+int chn=0;
+
+
+void *IRQHandler(short CID, short irq_type, unsigned int irq_data){
+	CRATE_OP op;
+	if(counter >= events ){ 
+		pthread_exit(NULL);
+		return;
+		}
+	switch (irq_type){
+		case COMBO_INT:
+			usleep(60);
+			op.F=18;				
+			op.N=21;
+			/*op.A=1;
+			res=CSSA(CID,&op);
+				if (res<0){
+					printf("ERROR: Couldn't read module\n");
+			}
+			data=op.DATA;
+			fprintf(outfile,"%d\t",data);*/
+			/*op.A=4;
+			res=CSSA(CID,&op);
+				if (res<0){
+					printf("ERROR: Couldn't read module\n");
+			}
+			data=op.DATA;
+			fprintf(outfile,"%d\t",data);*/
+			op.A=11;
+			res=CSSA(CID,&op);
+				if (res<0){
+					printf("ERROR: Couldn't read module\n");
+			}
+			data=op.DATA;
+			fprintf(outfile,"%d\n",data);
+			percent=(float)counter/events*100;
+			remainingtime1=(100-percent)/(percent/((int)time(NULL)-t0));
+			remainingtime0=(1-0.7)*remainingtime1+0.7*remainingtime0;
+			printf("\t%3.0f%%...complete\tremaining time:%3.1f\tcounts:%d\r",percent,remainingtime0,counter);
+			fflush(NULL);
+			CMDSR(CID,"nim_cack 1\r",cmd_res,32);
+			counter++;
+			break;
+		default: 
+			break;
+		}
+	return;
+}
+
+int main(int argc,char *argv[]){
+
+CRATE_INFO crInfo;
+total_data_size=block_data_size;
+cmd_res[32]='\0';
+	
+	if (argc>3){		/*There are not arguments for input in this executable file*/
+		printf("you just can insert only two parameters \n\
+			spectra [<num_events>] [<filename>]\n"); 
+		return 0;
+	}
+	else if(argc>2){
+		sprintf(filename,"%s",argv[2]);	
+		events=atoi(argv[1]);
+		}
+	else if(argc>1){
+		sprintf(filename,"datos.txt");
+		chn=0;
+		events=atoi(argv[1]);
+
+	}
+	else {
+		sprintf(filename,"datos.txt");
+		events=DEFAULT_EVENTS;
+	}
+
+	//putchar('\n');
+	if( !(outfile=fopen(filename,"wr")) ){	/*If file can't be opened for writting, fopen returns NULL, that's why if is true if fopen is NULL*/
+			printf("couldn't open file: %s\n",filename);
+			return 0;
+	}
+	
+	if ( (CID=Linit("192.168.1.105"))<0 ){		/*Linit needs CAMAC IP. CID is return from function Linit in Lecroy 2249A driver, output negative is error*/
+			printf("couldn't initialize device at ip: 192.168.1.105\n");
+			return 0;
+	}
+
+	
+	printf("CID: %d\n",CID);		/*if Linit is successful, it returns CAMAC assigned ID*/
+
+	printf("Event to be measured: %d\n",events);
+//	fprintf(outfile,"#SiPm1\tSiPm2\tPMT\n");
+//	fprintf(outfile,"#PMT1\tTARGET\tPMT2\n");
+	fprintf(outfile,"#PMT1\n");
+	t0=(int)time(NULL);
+	//res=CRIRQ(CID,(IRQ_CALLBACK)IRQHandler);
+	//CRGET(CID,&crInfo);
+	//pthread_join(crInfo.irq_tid,NULL);
+    LEnableNimOutPulse(CID, 21);
+    LSetNimOutPulse(CID, 21,0xFFFF);
+	
+	float rate=events/(float)((int)time(NULL)-t0);
+	putchar('\n');	
+
+	if( fclose(outfile)){	//fclose returns EOF if it fails. In C every value BUT 0 are TRUE. Closing datosoff
+		printf("couldn't close file: %s\n",filename);
+		return 1;
+	}
+	printf("Elapsed time: %d Average Adquisition Rate: %5.2f\n",(int)time(NULL)-t0,rate);
+
+	//this lines will close connection with CAMAC, it needs CID
+	//printf("CRCLOSE %d\n",CRCLOSE(CID));
+	if ( (CRCLOSE(CID))<0 ){
+			printf("couldn't close connection\n");
+			return 1;	}	
+	return 0;
+}
